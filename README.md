@@ -42,7 +42,7 @@ User Interface CSS in Rails Apps 30min
 Test output :
 -------------
 
-Track 1:
+Track 1:  
 09:00AM Writing Fast Tests Against Enterprise Rails 60min  
 10:00AM Communicating Over Distance 60min  
 11:00AM Rails Magic 60min  
@@ -55,7 +55,7 @@ Track 1:
 04:45PM Rails for Python Developers lightning  
 04:50PM Networking Event  
 
-Track 2:
+Track 2:  
 09:00AM Ruby on Rails Legacy App Maintenance 60min  
 10:00AM Overdoing it in Python 45min  
 10:45AM Ruby Errors from Mismatched Gem Versions 45min  
